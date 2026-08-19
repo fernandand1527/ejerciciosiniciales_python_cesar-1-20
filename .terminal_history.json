@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "workspacePath": "c:\\INICIOPYTHON\\Clases PYTHON\\Clases CESAR",
+  "entries": [
+    {
+      "command": "C:/Python314/python.exe \"c:/INICIOPYTHON/Clases PYTHON/Clases CESAR/ejercicio20.py\"",
+      "timestamp": 1787102423422,
+      "cwd": "c:\\INICIOPYTHON\\Clases PYTHON\\Clases CESAR"
+    },
+    {
+      "command": "it init",
+      "timestamp": 1787105664346,
+      "cwd": "c:\\INICIOPYTHON\\Clases PYTHON\\Clases CESAR"
+    },
+    {
+      "command": "git init",
+      "timestamp": 1787105670163,
+      "cwd": "c:\\INICIOPYTHON\\Clases PYTHON\\Clases CESAR"
+    },
+    {
+      "command": "cd ejercicios-introduccion-python",
+      "timestamp": 1787105941010,
+      "cwd": "c:\\INICIOPYTHON\\Clases PYTHON\\Clases CESAR"
+    },
+    {
+      "command": "cd ejerciciosiniciales_python_cesar-1-20",
+      "timestamp": 1787105985384,
+      "cwd": "c:\\INICIOPYTHON\\Clases PYTHON\\Clases CESAR"
+    },
+    {
+      "command": "git add README.md",
+      "timestamp": 1787106029792,
+      "cwd": "c:\\INICIOPYTHON\\Clases PYTHON\\Clases CESAR"
+    },
+    {
+      "command": "echo \"# Ejercicios de Introducción a Python 🐍\" > README.md",
+      "timestamp": 1787106065775,
+      "cwd": "c:\\INICIOPYTHON\\Clases PYTHON\\Clases CESAR"
+    },
+    {
+      "command": "git add README.md",
+      "timestamp": 1787106082828,
+      "cwd": "c:\\INICIOPYTHON\\Clases PYTHON\\Clases CESAR"
+    },
+    {
+      "command": "git commit -m \"Agregando README inicial\"",
+      "timestamp": 1787106104334,
+      "cwd": "c:\\INICIOPYTHON\\Clases PYTHON\\Clases CESAR"
+    },
+    {
+      "command": "git push origin main",
+      "timestamp": 1787106144413,
+      "cwd": "c:\\INICIOPYTHON\\Clases PYTHON\\Clases CESAR"
+    },
+    {
+      "command": "git push origin master",
+      "timestamp": 1787106152651,
+      "cwd": "c:\\INICIOPYTHON\\Clases PYTHON\\Clases CESAR"
+    },
+    {
+      "command": "git remote add origin https://github.com/fernandand1527/ ejerciciosiniciales_python_cesar-1-20",
+      "timestamp": 1787106229392,
+      "cwd": "c:\\INICIOPYTHON\\Clases PYTHON\\Clases CESAR"
+    },
+    {
+      "command": "git remote add origin https://github.com/fernandand1527/ejerciciosiniciales_python_cesar-1-20.git",
+      "timestamp": 1787106320379,
+      "cwd": "c:\\INICIOPYTHON\\Clases PYTHON\\Clases CESAR"
+    },
+    {
+      "command": "git remote -v",
+      "timestamp": 1787106341049,
+      "cwd": "c:\\INICIOPYTHON\\Clases PYTHON\\Clases CESAR"
+    },
+    {
+      "command": "git push origin main",
+      "timestamp": 1787106357535,
+      "cwd": "c:\\INICIOPYTHON\\Clases PYTHON\\Clases CESAR"
+    },
+    {
+      "command": "git push origin master",
+      "timestamp": 1787106405708,
+      "cwd": "c:\\INICIOPYTHON\\Clases PYTHON\\Clases CESAR"
+    },
+    {
+      "command": "git add .",
+      "timestamp": 1787106656845,
+      "cwd": "c:\\INICIOPYTHON\\Clases PYTHON\\Clases CESAR"
+    }
+  ],
+  "lastUpdated": 1787106656845
+}
