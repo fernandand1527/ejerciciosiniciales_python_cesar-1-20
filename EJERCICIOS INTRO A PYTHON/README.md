@@ -25,7 +25,4 @@ Este repositorio contiene los **20 ejercicios de la guía de Introducción a Pyt
 - **ejercicio19.py** → Clases Animal, Pez, Perro, Gato (herencia).
 - **ejercicio20.py** → Clase Vuelo con pasajeros.
 
-## 🚀 Cómo ejecutar
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/fernandand1527/ejercicios-introduccion-python.git
+
