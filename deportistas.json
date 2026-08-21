@@ -1,0 +1,36 @@
+[
+  {
+    "nombre": "Carlos",
+    "apellido": "Pérez",
+    "pais_nacimiento": "Colombia",
+    "deporte": "Futbol",
+    "sexo": "M",
+    "edad": 25,
+    "peso": 70,
+    "estatura": 175,
+    "fecha_nacimiento": "1998-05-12"
+  },
+  {
+    "nombre": "Ana",
+    "apellido": "García",
+    "pais_nacimiento": "Venezuela",
+    "deporte": "Gimnasia",
+    "sexo": "F",
+    "edad": 20,
+    "peso": 55,
+    "estatura": 160,
+    "fecha_nacimiento": "2003-07-08"
+  },
+  {
+    "nombre": "Luis",
+    "apellido": "Martínez",
+    "pais_nacimiento": "México",
+    "deporte": "Natación",
+    "sexo": "M",
+    "edad": 30,
+    "peso": 80,
+    "estatura": 180,
+    "fecha_nacimiento": "1996-02-15"
+  }
+]
+
